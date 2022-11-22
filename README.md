@@ -1,2 +1,2 @@
-# sh
+# Danted
 Any script
